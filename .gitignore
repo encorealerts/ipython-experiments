@@ -2,3 +2,6 @@
 **/.DS_Store
 user_classification/data/**
 .ipynb_checkpoints/**
+
+**/*.pkl*
+**/*.npy
