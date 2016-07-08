@@ -1,3 +1,4 @@
+
 # Alert: 552224
 id: 443640355687853231
 body: Now playing Pink Floyd "The Wall" #providence #downcity @ Movies On The Block https://t.co/kpSoAyQTN6
@@ -150,6 +151,7 @@ handles:
 urls:     https://twitter.com/aaeminfo/status/751097866505089024
 similarity score: 2.2805645
 ---
+
 # Alert: 552225
 id: 443640355687854337
 body: #Providence #RhodeIsland Jul 07 22:00 Temperature 73°F cloudy, Haze Wind S 11 km/h  Humidity 95% .. https://t.co/dJVuMEFjdw
@@ -308,6 +310,7 @@ handles:
 urls:     https://twitter.com/aaeminfo/status/751097866505089024
 similarity score: 3.3208008
 ---
+
 # Alert: 552228
 id: 443640355687857832
 body: RT @HQOntario: Dr. Nina Horvath explains how #palliativecare helps patients. Watch the full video https://t.co/uKRcMmI71d #onhealth https:/…
@@ -454,6 +457,7 @@ handles:
 urls:     
 similarity score: 0.6880219
 ---
+
 # Alert: 552231
 id: 443640355687864941
 body: OK @almighty31, we 👀 you. #CFLGameDay https://t.co/TFho6mLSuq
@@ -474,6 +478,7 @@ handles:
 urls:     
 similarity score: 0.8677075
 ---
+
 # Alert: 552234
 id: 443640355687870605
 body: #MMIC Long-term care. Read Blog: https://t.co/vS5ZOBooJX
@@ -554,6 +559,7 @@ handles:
 urls:     https://www.linkedin.com/pulse/deductions-long-term-care-insurance-shamsey-oloko?published=t
 similarity score: 26.629913
 ---
+
 # Alert: 552236
 id: 443640355687873588
 body: #Providence #RhodeIsland Jul 07 22:17 Temperature 73°F -, Haze Wind S 11 km/h  Humidity 95% .. https://t.co/dJVuMEFjdw
@@ -688,6 +694,7 @@ handles:
 urls:     https://twitter.com/aaeminfo/status/751097866505089024
 similarity score: 3.443981
 ---
+
 # Alert: 552238
 id: 443640355687876601
 body: @AskLyft can you update the address for MacArthur BART to be on 40th street instead of on the freeway? Thx! https://t.co/VSYL9lcqEp
@@ -756,6 +763,7 @@ handles:  sfbart
 urls:     
 similarity score: 1.4852417
 ---
+
 # Alert: 552240
 id: 443640355687881567
 body: #BDA Long-Term Care - What Does Medicare Cover?. Read Blog: https://t.co/tHKVX3NxbU
@@ -836,6 +844,7 @@ handles:  cdnchange
 urls:     https://www.change.org/p/dr-eric-hoskins-minister-of-health-long-term-care-dr-jane-philpott-federal-health-minister-dipika-damerla-associate-minister-of-health-long-term-care-save-the-medical-system-stop-the-use-of-antibiotics-in-animal-feed?recruiter=55385093
 similarity score: 20.678806
 ---
+
 # Alert: 552241
 id: 443640355687882714
 body: My best accomplishment of the day was picking the Bart car that gets off right next to the escalator
@@ -904,6 +913,7 @@ handles:  sfbart
 urls:     
 similarity score: 4.268405
 ---
+
 # Alert: 552242
 id: 443640355687883390
 body: Playing @Pokemon Go on @SFBART is officially my new favorite commute activity https://t.co/xDPIj3N01J
@@ -966,6 +976,7 @@ handles:
 urls:     
 similarity score: 0.98810244
 ---
+
 # Alert: 552243
 id: 443640355687886706
 body: Meanwhile.. #PoliceBrutality by officers in #Providence #RhodeIsland https://t.co/d69X6yduZH
@@ -1100,6 +1111,7 @@ handles:
 urls:     https://twitter.com/aaeminfo/status/751097866505089024
 similarity score: 2.4294503
 ---
+
 # Alert: 552245
 id: 443640355687891456
 body: #Providence #RhodeIsland Jul 07 22:40 Temperature 73°F -, Haze Wind SE 7 km/h  Humidity 95% .. https://t.co/dJVuMEFjdw
@@ -1228,6 +1240,7 @@ handles:
 urls:     https://twitter.com/aaeminfo/status/751097866505089024
 similarity score: 3.4292676
 ---
+
 # Alert: 552246
 id: 443640355687891523
 body: #TWGroup Top 10 Facts to Know About Long-Term Care Insurance. Read Blog: https://t.co/p6FgRPo14t
@@ -1296,6 +1309,7 @@ handles:  po_st
 urls:     http://thebreastcancersite.greatergood.com/clicktogive/bcs/petition/longterm-medicare
 similarity score: 21.55645
 ---
+
 # Alert: 552247
 id: 443640355687891519
 body: #TWGroup Top 10 Facts to Know About Long-Term Care Insurance. Read Blog: https://t.co/dXyU7eoexy
@@ -1364,6 +1378,7 @@ handles:  po_st
 urls:     http://thebreastcancersite.greatergood.com/clicktogive/bcs/petition/longterm-medicare
 similarity score: 21.55645
 ---
+
 # Alert: 552249
 id: 443640355687892631
 body: D-II softball championship: Woonsocket&#039;s tenacity wins out - The Providence Journal #providence https://t.co/HQHk2Yceug
@@ -1498,6 +1513,7 @@ handles:
 urls:     https://twitter.com/aaeminfo/status/751097866505089024
 similarity score: 2.2672675
 ---
+
 # Alert: 552250
 id: 443640355687894551
 body: KIMCHEESE PANCAKES SPECIAL💥💥💥This ones for all you kimchi pancake fans out there, we've taken this LB classic to the next level with the addition of an ooey gooey kimcheese centre😱👊Served with cashew aioli, sweet chilli sauce, avocado, and a side salad💕Available at Summer Street THIS WEEKEND ONLY✌️#theunbakery #vegan #glutenfree #dairyfree #wholefoods #plantbased #kimchipancake
@@ -1524,6 +1540,7 @@ handles:  thefeedfeed, wholefoods, buzzfeedfood, vegan, real_simple, womenshealt
 urls:     
 similarity score: 57.545673
 ---
+
 # Alert: 552253
 id: 443640355687896831
 body: Anywho. Lets not forget whats important. 👇🏾👇🏾👇🏾👇🏾👇🏾 be there.. TOMORROW! #providence #RhodeIsland #BlackLivesMatter https://t.co/wKQIpK2c0E
@@ -1664,6 +1681,7 @@ handles:
 urls:     https://twitter.com/aaeminfo/status/751097866505089024
 similarity score: 2.3232207
 ---
+
 # Alert: 552254
 id: 443640355687897600
 body: 7/100 "cow" #efy2016sanantonio1 #100happydays "
@@ -1678,6 +1696,7 @@ handles:
 urls:     
 similarity score: 274.4249
 ---
+
 # Alert: 552255
 id: 443640355687898866
 body: I'm at @BrassMonkeyTx in San Antonio, TX https://t.co/mRFIsG8VAc
@@ -1692,6 +1711,7 @@ handles:  jimcullumjazz
 urls:     https://www.instagram.com/p/bhlxwcddge_
 similarity score: 10.074679
 ---
+
 # Alert: 552263
 id: 443640355687910793
 body: #Providence #RhodeIsland Jul 07 22:51 Temperature 73°F -, Haze Wind S 9 km/h  Humidity 95% .. https://t.co/dJVuMEFjdw
@@ -1820,6 +1840,7 @@ handles:
 urls:     https://twitter.com/aaeminfo/status/751097866505089024
 similarity score: 3.4431002
 ---
+
 # Alert: 552264
 id: 443640355687912237
 body: #providence #ri Hundreds rally in NYC against fatal police shootings https://t.co/OtQCEZTLR9
@@ -1948,6 +1969,7 @@ handles:
 urls:     https://twitter.com/adamschefter/status/751222930718068737
 similarity score: 2.4792998
 ---
+
 # Alert: 552266
 id: 443640355687913999
 body: The latest The ReTweetRI News! https://t.co/hNhOq8pNIt Thanks to @RhodeIslandEMA #401love #providence
